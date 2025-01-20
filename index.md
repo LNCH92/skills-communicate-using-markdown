@@ -25,3 +25,10 @@ var twenty=20;
 var five=5;
 var division=twenty/five;
 ```
+- [x] Introduction
+- [x] Abstract
+- [x] Scope of the study
+- [x] Litrature review
+- [x] Findings and discoveries
+- [ ] Recommendation and conclusion
+- [ ] References
