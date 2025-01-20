@@ -13,3 +13,15 @@ __ Jesus Christ H6
  
  
  I added an image markdown syntax to my file. 
+
+```javascripts
+var second=2;
+var thirtheen=13;
+var sum=second + thirtheen;
+```
+
+```python
+var twenty=20;
+var five=5;
+var division=twenty/five;
+```
