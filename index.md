@@ -7,3 +7,4 @@ __ Jesus Christ H6
 #### Grace is sufficient          
 
 ### I used a H1 header to write thoughts that are close to my heart. furthermore, used underscores to show headers in small fonts.
+![image of a dove](https://www.outdooralabama.com/pigeons/mourning-dove)
